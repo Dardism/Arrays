@@ -20,9 +20,9 @@ namespace Arrays {
       highArray.insert(99);
       highArray.insert(100);
 
-      highArray.display();
+      highArray.display(); 
 
-      int searchKey = 35;
+      int searchKey = 35; 
       if (highArray.find(searchKey)) {
         Console.WriteLine("Found " + searchKey + " in array");
       }
