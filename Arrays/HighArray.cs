@@ -25,7 +25,7 @@ namespace Arrays {
       if (j == nElems) {
         return false;
       }
-      else {
+      else { 
         return true;
       }
     }
